@@ -23,3 +23,6 @@ test放了一些测试指令的汇编代码和机器码，如testall.sv存放机
 [RV32I指令集](https://www.cnblogs.com/mikewolf2002/p/9864652.html)
 
 最后保存当时几张图
+
+![状态机](https://github.com/fox6666/RISC_V-multicycle/tree/master/images/状态机.png)
+![模块](https://github.com/fox6666/RISC_V-multicycle/tree/master/images/2.png)
